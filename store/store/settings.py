@@ -32,7 +32,11 @@ SECRET_KEY = 'django-insecure-#c4zkxtvj&zi486)=3foj5z!tzfv*-1!igfjqn9y+v^eu)bjlz
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'diplom-project-4.onrender.com',
+    'localhost',
+    '127.0.0.1',
+]
 
 
 # Application definition
