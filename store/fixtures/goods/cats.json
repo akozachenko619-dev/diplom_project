@@ -1,0 +1,82 @@
+[
+  {
+    "model": "goods.categories",
+    "pk": 1,
+    "fields": {
+      "name": "ðúÐüÐû Ðéð¥ð▓ð░ÐÇð©",
+      "slug": "usi-tovari"
+    }
+  },
+  {
+    "model": "goods.categories",
+    "pk": 2,
+    "fields": {
+      "name": "ðÜð¥ÐäÐéð©",
+      "slug": "kofti"
+    }
+  },
+  {
+    "model": "goods.categories",
+    "pk": 3,
+    "fields": {
+      "name": "ðÑð░ð╗ð░Ðéð©",
+      "slug": "halati"
+    }
+  },
+  {
+    "model": "goods.categories",
+    "pk": 4,
+    "fields": {
+      "name": "ðñÐâÐéð▒ð¥ð╗ð║ð©",
+      "slug": "futbolki"
+    }
+  },
+  {
+    "model": "goods.categories",
+    "pk": 5,
+    "fields": {
+      "name": "ðƒÐûð┤ðÂð░ð║ð©",
+      "slug": "pidzhaki"
+    }
+  },
+  {
+    "model": "goods.categories",
+    "pk": 6,
+    "fields": {
+      "name": "ðöðÂð©ð¢Ðüð©",
+      "slug": "dzhinsi"
+    }
+  },
+  {
+    "model": "goods.categories",
+    "pk": 7,
+    "fields": {
+      "name": "ðÆðÀÐâÐéÐéÐÅ",
+      "slug": "vzuttya"
+    }
+  },
+  {
+    "model": "goods.categories",
+    "pk": 8,
+    "fields": {
+      "name": "ðÉð║ÐüðÁÐüÐâð░ÐÇð©",
+      "slug": "aksesuari"
+    }
+  },
+  {
+    "model": "goods.categories",
+    "pk": 9,
+    "fields": {
+      "name": "ðƒÐûðÂð░ð╝ð©",
+      "slug": "pizhami"
+    }
+  },
+  {
+    "model": "goods.categories",
+    "pk": 10,
+    "fields": {
+      "name": "ð¿ð░ð┐ð║ð©",
+      "slug": "shapki"
+    }
+  }
+]
